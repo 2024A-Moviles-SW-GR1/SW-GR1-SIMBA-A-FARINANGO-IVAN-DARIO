@@ -1,0 +1,26 @@
+3,Ford,Fiesta,true,12000.0,3
+4,Chevrolet,Cruze,false,5.0,4
+5,Volkswagen,Jetta,true,18000.0,1
+6,Toyota,Corolla,false,24000.0,2
+7,Honda,Accord,true,20000.0,3
+8,Ford,Mustang,false,35000.0,4
+9,Chevrolet,Spark,true,10000.0,1
+10,Volkswagen,Golf,false,28000.0,2
+11,Toyota,Rav4,true,28000.0,3
+12,Honda,HR-V,false,26000.0,4
+13,Ford,Escape,true,30000.0,1
+14,Chevrolet,Trax,false,20000.0,2
+15,Volkswagen,Tiguan,true,32000.0,3
+16,Toyota,Highlander,false,40000.0,4
+17,Honda,Pilot,true,35000.0,1
+18,Ford,Explorer,false,42000.0,2
+19,Chevrolet,Tahoe,true,38000.0,3
+20,Volkswagen,Atlas,false,45000.0,4
+21,Toyota,4Runner,true,32000.0,1
+22,Honda,Odyssey,false,35000.0,2
+23,Ford,Expedition,true,50000.0,3
+24,Chevrolet,Suburban,false,55000.0,4
+25,Volkswagen,Cross Sport,true,40000.0,1
+26,Ojo,Koko,true,8999.0,4
+27,Jiji,Iji,true,9.0,3
+28,Frf,Fr,false,9.0,4
