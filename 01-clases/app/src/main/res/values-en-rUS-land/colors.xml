@@ -1,0 +1,4 @@
+<resources>
+    <color name="background_color">#ADD8E6</color> <!-- Light Blue -->
+    <color name="text_color">#00008B</color> <!-- Dark Blue -->
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <color name="background_color">#FAFAD2</color> <!-- Light Goldenrod Yellow -->
+    <color name="text_color">#FF8C00</color> <!-- Dark Orange -->
+</resources>

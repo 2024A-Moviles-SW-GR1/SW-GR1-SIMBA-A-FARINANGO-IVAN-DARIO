@@ -1,0 +1,4 @@
+<resources>
+    <color name="background_color">#F08080</color> <!-- Light Coral -->
+    <color name="text_color">#8B0000</color> <!-- Dark Red -->
+</resources>
